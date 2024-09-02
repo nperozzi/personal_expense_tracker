@@ -12,6 +12,7 @@ Create a simple command-line program that allows users to track their daily expe
 * __Persistent Storage:__ Use a text file to save expenses, so they persist between sessions. You can use file handling techniques to read and write expenses to a file.
 * __Input Validation:__ Ensure that the user inputs valid data (e.g., the amount should be a number).
 * __Search Functionality:__ Allow the user to search for expenses by name or category.
+* __Regular Expressions:__ Use this to validate data or to extrct information from the inputs
 
 ## Key Concepts Reinforced:
 1. __Input/Output:__ Working with `input()` and `print()` to interact with the user.
